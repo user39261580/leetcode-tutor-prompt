@@ -5,9 +5,10 @@
 **A carefully engineered system prompt that turns any capable LLM into a Socratic coding interview tutor**
 
 [![Version](https://img.shields.io/badge/version-2.0-blue?style=flat-square)](./CHANGELOG.md)
-[![Primary Language](https://img.shields.io/badge/prompt-English%20(canonical)-black?style=flat-square)](./prompts/en/leetcode-tutor.md)
-[![Output Language](https://img.shields.io/badge/output-Traditional%20Chinese%20(zh--TW)-red?style=flat-square)](#-language-architecture)
-[![Compatible](https://img.shields.io/badge/LLM-GPT%20%7C%20Claude%20%7C%20Gemini%20%7C%20Perplexity-green?style=flat-square)](#-quick-start)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-Project-74aa9c?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-Project-D97757?style=flat-square&logo=claude&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-Gem-8E75B2?style=flat-square&logo=google%20gemini&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-Space-000000?style=flat-square&logo=perplexity&logoColor=088F8F)
 [![License](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square)](./LICENSE)
 
 *From memorizing solutions to truly owning them — guided by the Socratic method, one problem at a time.*
